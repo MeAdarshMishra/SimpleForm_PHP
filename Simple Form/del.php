@@ -1,6 +1,6 @@
 <html>
 <form method="POST" action="delete.php">
-enter your name:<br>
+Enter your name:<br>
 <input type="text" name="a" size="30"><br>
 enter your password:<br>
 <input type="password" name="b" size="30"><br>
